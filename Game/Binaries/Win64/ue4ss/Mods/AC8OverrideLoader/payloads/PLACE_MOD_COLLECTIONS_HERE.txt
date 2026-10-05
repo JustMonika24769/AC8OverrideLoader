@@ -1,0 +1,2 @@
+Place each same-stem .utoc/.ucas/.pak collection in its own subdirectory.
+See the package README before enabling the loader.
